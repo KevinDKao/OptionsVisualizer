@@ -1,6 +1,7 @@
 # OptionsVisualizer
 
 Simple Python Web App for viewing simulated options greeks and how they would pay off.
+![image](https://github.com/user-attachments/assets/8fe41d1f-7b8a-4b65-82d1-cec303163e60)
 
 ## Features
 
